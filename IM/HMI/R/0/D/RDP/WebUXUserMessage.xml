@@ -1,0 +1,9 @@
+<WebUXUserMessages>
+  <Information Version="7.0.2" Company="SIEMENS AG" Creator="SIEMENS AG" />
+  <screens>
+    <screen name="Web View.pdl">
+      <object name="HTML browser_1" property="" event="" IsSupported="False" IsSpecialHandling="False" />
+    </screen>
+  </screens>
+  <RdfNotCreated />
+</WebUXUserMessages>

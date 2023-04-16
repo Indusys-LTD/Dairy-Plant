@@ -1,0 +1,14 @@
+<WebUX>
+  <Information Version="14.0" Company="SIEMENS AG" Creator="SIEMENS AG" />
+  <ScreenPath>D:\DairyPLant\IM\HMI\R\0\D\HMI_10MZ\GRACS\</ScreenPath>
+  <Create>
+    <Screen ID="B3C21002100F000510CB00F00B000000000000">
+      <Name>Dashboard</Name>
+      <GlobalVBScripts>
+      </GlobalVBScripts>
+    </Screen>
+  </Create>
+  <Delete>
+    <ScreenName>Home_1</ScreenName>
+  </Delete>
+</WebUX>

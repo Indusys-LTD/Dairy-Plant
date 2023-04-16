@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\DairyPLant\IM\HMI\R\0\D\HMI_10MZ
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\GACHANJA\WinCC_Project_HMI_10MZ
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2023-04-03 23:15:48
+	</LastModifiedDate>
+	</RDP>
+</MCX>

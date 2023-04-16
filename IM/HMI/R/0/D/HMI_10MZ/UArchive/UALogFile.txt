@@ -1,0 +1,29 @@
+2023-04-03 15:59:22.487 [p=7220, t=0x48c4] General: Project opened, dsncs="CC_HMI_10MZ_23_04_03_13_46_27" path="\\GACHANJA\WinCC_Project_HMI_10MZ\HMI_10MZ.mcp"
+2023-04-03 15:59:22.546 [p=7220, t=0x48c4] Sync: No redundant partner configured
+2023-04-03 15:59:22.550 [p=7220, t=0x48c4] Sync: Loading redundancy configuration
+2023-04-03 15:59:22.612 [p=7220, t=0x48c4] Sync: Redundancy is not activated
+2023-04-03 15:59:22.638 [p=7220, t=0x48c4] General: Disconnecting configuration.
+2023-04-03 15:59:22.640 [p=7220, t=0x48c4] General: Connecting configuration.
+2023-04-03 15:59:22.935 [p=7220, t=0x48c4] General: Connecting to runtime database "CC_HMI_10MZ_23_04_03_13_46_27R" on instance "GACHANJA\WINCC"
+2023-04-03 15:59:22.962 [p=7220, t=0x48c4] General: Checking and upgrading archive table schemas
+2023-04-03 15:59:22.964 [p=7220, t=0x48c4] General: Archive table schemas are up to date now
+2023-04-03 15:59:23.076 [p=7220, t=0x48c4] CUAServer::ConnectLicenseServices
+2023-04-03 15:59:23.077 [p=7220, t=0x48c4] CUAServer::DisconnectLicenseServices
+2023-04-03 15:59:23.082 [p=7220, t=0x48c4] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2023-04-03 15:59:23.083 [p=7220, t=0x48c4] CreateInstance of CLicenseTimerThread succeeded.
+2023-04-03 15:59:23.124 [p=7220, t=0x48c4] General: Project activate
+2023-04-03 15:59:23.125 [p=7220, t=0x48c4] General: Start deactivating the project...
+2023-04-03 15:59:23.126 [p=7220, t=0x48c4] Sync: Loading redundancy configuration
+2023-04-03 15:59:23.137 [p=7220, t=0x48c4] Sync: Redundancy is not activated
+2023-04-03 15:59:27.034 [p=7220, t=0x18d4] General: ProjectEvent: 3
+2023-04-03 15:59:28.097 [p=7220, t=0x5a10] CUAServer::OnLicenseCheck (first call).
+2023-04-03 15:59:28.100 [p=7220, t=0x5a10] OnLicenseCheck: number of archives = 0.
+2023-04-03 16:01:37.110 [p=7220, t=0x18d4] General: ProjectEvent: 4
+2023-04-03 16:01:37.113 [p=7220, t=0x18d4] General: Start deactivating the project...
+2023-04-03 16:01:37.111 [p=7220, t=0x5fe4] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-04-03 16:01:37.134 [p=7220, t=0x18d4] General: Project deactivated
+2023-04-03 16:01:54.323 [p=7220, t=0x18d4] General: ProjectEvent: 2
+2023-04-03 16:01:54.325 [p=7220, t=0x18d4] General: Start closing the project...
+2023-04-03 16:01:54.327 [p=7220, t=0x18d4] General: Start deactivating the project...
+2023-04-03 16:01:54.329 [p=7220, t=0x18d4] CUAServer::DisconnectLicenseServices
+2023-04-03 16:01:54.597 [p=7220, t=0x18d4] General: Disconnecting configuration.

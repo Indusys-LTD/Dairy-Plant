@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <creator>RDP</creator>
+  <version minor="0" major="2" />
+  <target>
+    <delete>
+      <pictures>
+        <file>Home_1.PDL</file>
+      </pictures>
+    </delete>
+    <path>D:\DairyPLant\IM\HMI\R\0\D\HMI_10MZ\Web\</path>
+    <compile>Delta</compile>
+  </target>
+  <source>
+    <path>D:\DairyPLant\IM\HMI\R\0\D\HMI_10MZ</path>
+    <pictures>
+      <file>Dashboard.PDL</file>
+    </pictures>
+    <images />
+    <serverprefix />
+  </source>
+</config>
